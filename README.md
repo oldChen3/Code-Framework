@@ -1,2 +1,2 @@
 # Code-Framework
-It story the project abou code framework
+It store the project abou code framework
